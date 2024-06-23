@@ -22,7 +22,8 @@ const Education = (props: Props) => {
             <time className="text-sm font-semibold text-gray-500">
               March 2022
             </time>
-            <h2 className="mb-2 text-sm font-semibold">Panda School</h2>
+            <h2 className="mb-2 text-sm font-semibold"> Prapassornrangsit
+            School</h2>
           </div>
         </div>
       </div>
