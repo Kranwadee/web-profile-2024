@@ -1,5 +1,6 @@
 import {
   faDocker,
+  faHtml5,
   faJava,
   faJs,
   faPhp,
@@ -37,7 +38,7 @@ const Skill = (props: Props) => {
         </div>
 
         <div className="text-center">
-          <FontAwesomeIcon icon={faHTML} className="h-10" />
+          <FontAwesomeIcon icon={faHtml5} className="h-10" />
           <p>HTML</p>
         </div>
         
