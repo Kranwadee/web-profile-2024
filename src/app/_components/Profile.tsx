@@ -20,7 +20,7 @@ const Profile = (props: Props) => {
         <p className="text-base">Software Engineer</p>
       </div>
 
-      <div className="py-10 text-center ">" May the force be with you "</div>
+      <div className="py-10 text-center ">" Always believe in yourself "</div>
       <div className="p-6 mx-1 xl:mx-6 bg-blue-300 rounded-md">
         <p>
           <b>Age:</b> 20
@@ -29,7 +29,7 @@ const Profile = (props: Props) => {
           <b>Status:</b> -
         </p>
         <p>
-          <b>Location:</b> PTT
+          <b>Location:</b> Phatthalung
         </p>
       </div>
     </div>
