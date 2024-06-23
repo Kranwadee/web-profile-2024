@@ -25,14 +25,8 @@ const Skill = (props: Props) => {
           <FontAwesomeIcon icon={faPython} className="h-10" />
           <p>Python</p>
         </div>
-        <div className="text-center">
-          <FontAwesomeIcon icon={faRust} className="h-10" />
-          <p>Rust</p>
-        </div>
-        <div className="text-center">
-          <FontAwesomeIcon icon={faReact} className="h-10" />
-          <p>React</p>
-        </div>
+        
+        
         <div className="text-center">
           <FontAwesomeIcon icon={faJava} className="h-10" />
           <p>Java</p>
@@ -41,14 +35,13 @@ const Skill = (props: Props) => {
           <FontAwesomeIcon icon={faJs} className="h-10" />
           <p>JS</p>
         </div>
+
         <div className="text-center">
-          <FontAwesomeIcon icon={faDocker} className="h-10" />
-          <p>Docker</p>
+          <FontAwesomeIcon icon={faHTML} className="h-10" />
+          <p>HTML</p>
         </div>
-        <div className="text-center">
-          <FontAwesomeIcon icon={faVuejs} className="h-10" />
-          <p>Vue.js</p>
-        </div>
+        
+       
       </div>
     </Card>
   );
